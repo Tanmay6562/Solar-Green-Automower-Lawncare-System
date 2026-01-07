@@ -62,8 +62,7 @@ The system consists of three main parts:
 This project is supported by a published research paper:
 
 📘 **SolarGreen Automower : Smart IoT Lawncare**  
-📂 Available in the `paper/` folder
-
+file name: Research paper 1st SolarGreen Automower nceeict
 ---
 
 ## 📸 Visuals
